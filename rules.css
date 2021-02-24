@@ -1,0 +1,33 @@
+h1 {
+	color: brown;
+	text-align: center;
+}
+
+p {
+	color: rgb(0, 0, 0);
+	text-align: center;
+}
+
+div p {
+	color: black;
+	text-align: left;
+}
+
+table {
+	text-align: center;
+}
+
+ol li {
+	background: #74a2daee;
+	padding: 5px;
+	margin-left: 10px;
+}
+
+th {
+	background-color: #4CAF50;
+	color: white;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
